@@ -5,16 +5,6 @@
 > Catstrap is under active delopment
 
 
-[![License][shield-repo-license]][repo-license]
-[![GitHub Workflow Status][shield-repo-workflow]][repo-actions]
-[![Crowdin][shield-crowdin-status]][crowdin-project]
-[![Downloads][shield-repo-releases]][repo-releases]
-[![Version][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-[![lol][shield-tenor-meme]][tenor-gif]
-
-</div>
-
 ----
 
 Catstrap a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
