@@ -6,7 +6,7 @@ using System.Windows.Threading;
 
 using Microsoft.Win32;
 
-namespace Bloxstrap
+namespace CatStrap
 {
     /// <summary>
     /// Interaction logic for App.xaml
@@ -14,11 +14,11 @@ namespace Bloxstrap
     public partial class App : Application
     {
 #if QA_BUILD
-        public const string ProjectName = "Bloxstrap-QA";
+        public const string ProjectName = "CatStrap-QA";
 #else
-        public const string ProjectName = "Bloxstrap";
+        public const string ProjectName = "CatStrap";
 #endif
-        public const string ProjectOwner = "Bloxstrap";
+        public const string ProjectOwner = "CatStrap";
         public const string ProjectRepository = "bloxstraplabs/bloxstrap";
         public const string ProjectDownloadLink = "https://bloxstraplabs.com";
         public const string ProjectHelpLink = "https://bloxstraplabs.com/wiki/help/";
@@ -396,3 +396,4 @@ namespace Bloxstrap
         }
     }
 }
+
