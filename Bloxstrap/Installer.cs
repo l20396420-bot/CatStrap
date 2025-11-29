@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using Microsoft.Win32;
 
-namespace Bloxstrap
+namespace CatStrap
 {
     internal class Installer
     {
