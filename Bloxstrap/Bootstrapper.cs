@@ -25,7 +25,7 @@ using Bloxstrap.UI.Elements.Bootstrapper.Base;
 
 using ICSharpCode.SharpZipLib.Zip;
 
-namespace Bloxstrap
+namespace CatStrap
 {
     public class Bootstrapper
     {
@@ -1503,3 +1503,4 @@ namespace Bloxstrap
         #endregion
     }
 }
+
